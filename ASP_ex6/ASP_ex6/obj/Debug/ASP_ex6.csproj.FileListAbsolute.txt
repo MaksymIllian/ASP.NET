@@ -1,0 +1,8 @@
+g:\documents\visual studio 2013\Projects\ASP_ex6\ASP_ex6\bin\ASP_ex6.dll.config
+g:\documents\visual studio 2013\Projects\ASP_ex6\ASP_ex6\bin\ASP_ex6.dll
+g:\documents\visual studio 2013\Projects\ASP_ex6\ASP_ex6\bin\ASP_ex6.pdb
+g:\documents\visual studio 2013\Projects\ASP_ex6\ASP_ex6\bin\TestControl.dll
+g:\documents\visual studio 2013\Projects\ASP_ex6\ASP_ex6\bin\TestControl.pdb
+g:\documents\visual studio 2013\Projects\ASP_ex6\ASP_ex6\obj\Debug\ASP_ex6.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\ASP_ex6\ASP_ex6\obj\Debug\ASP_ex6.dll
+g:\documents\visual studio 2013\Projects\ASP_ex6\ASP_ex6\obj\Debug\ASP_ex6.pdb

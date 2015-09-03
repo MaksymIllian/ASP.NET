@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\ASP_ex2\ASP_ex2\bin\ASP_ex2.dll.config
+g:\documents\visual studio 2013\Projects\ASP_ex2\ASP_ex2\bin\ASP_ex2.dll
+g:\documents\visual studio 2013\Projects\ASP_ex2\ASP_ex2\bin\ASP_ex2.pdb
+g:\documents\visual studio 2013\Projects\ASP_ex2\ASP_ex2\bin\System.Web.dll
+g:\documents\visual studio 2013\Projects\ASP_ex2\ASP_ex2\obj\Release\ASP_ex2.dll
+g:\documents\visual studio 2013\Projects\ASP_ex2\ASP_ex2\obj\Release\ASP_ex2.pdb

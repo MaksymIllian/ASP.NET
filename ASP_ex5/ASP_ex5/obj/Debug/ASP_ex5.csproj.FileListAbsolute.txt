@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\ASP_ex5\ASP_ex5\obj\Debug\ASP_ex5.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\ASP_ex5\ASP_ex5\bin\ASP_ex5.dll.config
+g:\documents\visual studio 2013\Projects\ASP_ex5\ASP_ex5\bin\ASP_ex5.dll
+g:\documents\visual studio 2013\Projects\ASP_ex5\ASP_ex5\bin\ASP_ex5.pdb
+g:\documents\visual studio 2013\Projects\ASP_ex5\ASP_ex5\obj\Debug\ASP_ex5.dll
+g:\documents\visual studio 2013\Projects\ASP_ex5\ASP_ex5\obj\Debug\ASP_ex5.pdb

@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\ASP_ex3\ASP_ex3\bin\ASP_ex3.dll.config
+g:\documents\visual studio 2013\Projects\ASP_ex3\ASP_ex3\bin\ASP_ex3.dll
+g:\documents\visual studio 2013\Projects\ASP_ex3\ASP_ex3\bin\ASP_ex3.pdb
+g:\documents\visual studio 2013\Projects\ASP_ex3\ASP_ex3\obj\Debug\ASP_ex3.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\ASP_ex3\ASP_ex3\obj\Debug\ASP_ex3.dll
+g:\documents\visual studio 2013\Projects\ASP_ex3\ASP_ex3\obj\Debug\ASP_ex3.pdb
