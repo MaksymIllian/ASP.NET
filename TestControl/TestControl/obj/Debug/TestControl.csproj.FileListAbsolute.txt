@@ -1,0 +1,5 @@
+g:\documents\visual studio 2013\Projects\TestControl\TestControl\bin\Debug\TestControl.dll
+g:\documents\visual studio 2013\Projects\TestControl\TestControl\bin\Debug\TestControl.pdb
+g:\documents\visual studio 2013\Projects\TestControl\TestControl\obj\Debug\TestControl.dll
+g:\documents\visual studio 2013\Projects\TestControl\TestControl\obj\Debug\TestControl.pdb
+g:\documents\visual studio 2013\Projects\TestControl\TestControl\obj\Debug\TestControl.csprojResolveAssemblyReference.cache
